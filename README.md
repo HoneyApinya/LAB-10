@@ -46,7 +46,7 @@
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
 </p> 
-![]()
+![](https://github.com/HoneyApinya/LAB-10/blob/master/10.p2.png?raw=true)
 
 
 ## การวาดรูปทรงสี่เหลี่ยม
@@ -86,11 +86,11 @@
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
 </p>  
-![]()
+![](https://github.com/HoneyApinya/LAB-10/blob/master/10.p1.png?raw=true)
 
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้<br>
-
+![](https://github.com/HoneyApinya/LAB-10/blob/master/10.10.png?raw=true)
 
 ##เอกสารอ้างอิง
 ### [Graphics Methods](https://msdn.microsoft.com/en-us/library/system.drawing.graphics_methods(v=vs.110).aspx)
