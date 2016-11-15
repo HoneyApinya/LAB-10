@@ -17,6 +17,7 @@
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-1.png">
 </p>
+![](https://github.com/HoneyApinya/LAB-10/blob/master/10.01.png?raw=true)
 
 
 ## การวาดเส้นตรงด้วย pen style และ brush
@@ -24,6 +25,7 @@
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-2.png">
 </p>
+![](https://github.com/HoneyApinya/LAB-10/blob/master/10.02.png?raw=true)
 
 ## การกำหนดจุดปลายของเส้นตรงด้วย style แบบต่างๆ
 
@@ -31,18 +33,21 @@
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-3.png">
 </p>
-
+![](https://github.com/HoneyApinya/LAB-10/blob/master/10.03.png?raw=true)
 
 ##การวาดเส้นโค้ง
 การวาดเส้นโค้ง ทำได้โดยการกำหนดจุดไว้ใน array ของ point แล้วส่งให้กับฟังก์ชัน DrawCurve ดังตัวอย่างต่อไปนี้
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-4.png">
 </p>
+![](https://github.com/HoneyApinya/LAB-10/blob/master/10.04.png?raw=true)
 
 ## การวาดเส้นโค้งด้วย Graphics path
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
 </p> 
+![]()
+
 
 ## การวาดรูปทรงสี่เหลี่ยม
 ### การวาดสี่เหลี่ยมครั้งละรูปเดียว
@@ -53,13 +58,15 @@
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-7.png">
 </p> 
-
+![](https://github.com/HoneyApinya/LAB-10/blob/master/10.05.png?raw=true)
 
 ## การวาดวงกลมและวงรี
 วงรีต่างจากวงกลมตรงที่เส้นผ่านศูนย์กลางในแกนตั้งและแกนนอนจะไม่เท่ากัน ในภาษาโปรแกรมส่วนใหญ่จะมีเฉพาะฟังก์ชันวาดวงรี ถ้าต้องการวาดวงกลม ให้กำหนดเส้นผ่านศูนย์กลางในแกนตั้งและแกนนอนให้เท่ากัน
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-8.png">
 </p> 
+![](https://github.com/HoneyApinya/LAB-10/blob/master/10.06.png?raw=true)
+
 
 ## การวาดส่วนโค้ง (Arc)
    <p align="center">
